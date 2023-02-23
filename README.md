@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/126159073/220885329-fa20d4ae-846b-41c2-9545-479a8ec42fef.png" align="center" style="width: 100%" />
 </div>  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -79,8 +78,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+  
   
 
 <br/>  
